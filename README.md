@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Aniq Aqil
-#### student of BCS in Data Science at University Malaya
+<h1 align="center">Hi 👋, I'm Aniq Aqil</h1>
+<h3 align="center">BCS in Data Science at University Malaya</h3>
 Hello, I just new here and start to put all the projects that I made here so that you all can see all my progress.
 
 - 🌱 I’m currently learning ML and intro to data science 
