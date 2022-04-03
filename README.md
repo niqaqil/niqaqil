@@ -2,7 +2,7 @@
 <h3 align="center">Student of BCS in Data Science at University Malaya</h3>
 Hello, I just new here and start to put all the projects that I made here so that you all can see all my progress.
 
-- 🌱 I’m currently learning ML and intro to data science 
+- 🌱 I’m currently Data Analytics and System Networking for this semester 
 - 😁 Actually, I really interseted in web development and AI 
 
 ...............................................................  
