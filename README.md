@@ -1,20 +1,50 @@
-<h1 align="center">Hi 👋, I'm Aniq Aqil</h1>
-<h3 align="center">Student of BCS in Data Science at University Malaya</h3>
-Hello, I just new here and start to put all the projects that I made here so that you all can see all my progress.
+<div align="center">
 
-- 🌱 
-- 😁 Actually, I really interseted in web development and AI 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Aniq;I'm+a+student;I+love+Data+Science;Welcome+to+my+profile!" alt="Typing SVG" />
 
-...............................................................  
-Skills: Python / Java / R / Kotlin
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> </a> </p>
+  <p>
+     I'm a passionate learner at University of Malaya and developer exploring the world of code and data.
+  </p>
+
+</div>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=niqaqil&show_icons=true)  
+<details>
+  <summary>✨ <b>Click to read more about me</b></summary>
+  <br />
+  
+  * 🔭 I’m currently working on **Data Science Project -**
+  * 🌱 I’m currently learning **Business Inteligence and Analytics**
+  * 💬 Ask me about **SAS, Power BI, and Data Visualization**
+  * ⚡ Fun fact: **I like to run and hike! I will be running my second marathon next year**
+</details>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=niqaqil)  
+---
 
+<div align="center">
+  <p><b>My Coding Streak</b></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niqaqil&theme=dark&hide_border=true" alt="streak stats" />
+</div>
 
-Feel free to follow me:  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niqaqil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aniqaqil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/niq_aqil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/niqaqil)  
+<br />
+
+<h3 align="center">🛠️ Languages and Tools</h3>
+<p align="center"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+</p>
+
+---
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+  <br />
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
