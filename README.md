@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Aniq;I'm+a+student;I+love+Data+Science;Welcome+to+my+profile!" alt="Typing SVG" />
 
   <p>
-     I'm a passionate learner at University of Malaya and developer exploring the world of code and data.
+    I’m a Computer Science student specializing in Data Science who loves turning messy datasets into clean pipelines, predictive models, and intuitive dashboards. When I'm not writing Python scripts or optimizing models, you’ll find me logging marathon miles, tackling trail elevation, or documenting my run streak.
   </p>
 
 </div>
@@ -14,9 +14,9 @@
   <br />
   
   * 🔭 I’m currently working on **Data Science Project -**
-  * 🌱 I’m currently learning **Business Inteligence and Analytics**
-  * 💬 Ask me about **SAS, Power BI, and Data Visualization**
-  * ⚡ Fun fact: **I like to run and hike! I will be running my second marathon next year**
+  * 🌱 I’m currently learning **Google Advanced Data Analytics Professional Certificate**
+  * 💬 **Sharing:** Creating fitness, tech, and run-streak content across socials.
+  * ⚡ **Endurance:** Balancing code with endurance running — proudly clocked a **3:57:00 marathon** and always training for the next ultra or trail summit.
 </details>
 
 ---
@@ -28,13 +28,19 @@
 
 <br />
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-</p>
+### 🛠️ Tech Stack & Tooling
+
+**Languages & Core:**  
+`Python` • `R` • `SQL` • `Bash` • `C++`
+
+**Data Science & Machine Learning:**  
+`Pandas` • `NumPy` • `Scikit-Learn` • `TensorFlow` • `PyTorch` • `ETL Pipelines`
+
+**Analytics & Visualization:**  
+`Power BI` • `Tableau` • `SAS` • `Matplotlib` • `Seaborn`
+
+**Cloud, Web & Databases:**  
+`Google Cloud Platform` • `PostgreSQL` • `Firebase` • `DigitalOcean Spaces` • `FastAPI` • `Streamlit`
 
 ---
 
