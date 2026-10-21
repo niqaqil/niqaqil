@@ -127,19 +127,27 @@ Exploring recommendation techniques that use music features and similarity measu
 
 </div>
 
+
 ## 🐍 Contribution Journey
 
 <div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/niqaqil/niqaqil/output/github-contribution-grid-snake.svg)
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/niqaqil/niqaqil/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/niqaqil/niqaqil/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/niqaqil/niqaqil/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
 </div>
 
-> To enable the contribution snake, configure a GitHub Actions workflow to generate the SVG and publish it to an `output` branch. Until then, this image will not render.
-
----
-
-<div align="center">
 
 ### Let's build something meaningful with data.
 
