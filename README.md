@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Aniq;I'm+a+student;I+love+Data+Science;Welcome+to+my+profile!" alt="Typing SVG" />
 
   <p>
-    I’m a Computer Science student specializing in Data Science who loves turning messy datasets into clean pipelines, predictive models, and intuitive dashboards. When I'm not writing Python scripts or optimizing models, you’ll find me logging marathon miles, tackling trail elevation, or documenting my run streak.
+    I’m a Computer Science graduate specializing in Data Science who loves turning messy datasets into clean pipelines, predictive models, and intuitive dashboards. When I'm not writing Python scripts or optimizing models, you’ll find me logging marathon miles, tackling trail elevation, or documenting my run streak.
   </p>
 
 </div>
